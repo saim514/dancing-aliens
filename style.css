@@ -1,0 +1,42 @@
+body
+{
+font-family: Impact;
+background-color:cornflowerblue;
+}
+
+.header_div
+{
+    background-color: greenyellow;
+    color: grey;
+}
+
+.header_div p
+{
+font-family: Roboto;
+color: grey;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button
+{
+font-family: sans-serif;
+margin-top:30px;
+letter-spacing: 3px;
+font-weight: bolder;
+width:130px;
+}
+
+.copyright_footer
+{
+    color:indigo;
+    position: fixed;
+    background-color: white;
+    text-align: center;
+    font-size:18px;
+    bottom: 0;
+    line-height: 2;
+    width:100%;
+    text-shadow: 5px 5px 6px grey;
+}
